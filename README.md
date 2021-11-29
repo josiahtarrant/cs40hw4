@@ -30,18 +30,30 @@ Josiahs-MacBook-Pro-2:hw4 Flyboy$
 
 ---
 
-## `bot_counter.py` Output for `botarmy.py`
+## `bot_counter.py` Output for one of the bots in my `botarmy.py`
 ```
-
+Josiahs-MacBook-Pro-2:hw4 Flyboy$ python3 bot_counter.py --username=BOTterfly41
+Version 7.4.0 of praw is outdated. Version 7.5.0 was released Sunday November 14, 2021.
+len(comments)= 924
+len(top_level_comments)= 44
+len(replies)= 880
+len(valid_top_level_comments)= 8
+len(not_self_replies)= 650
+len(valid_replies)= 171
+========================================
+valid_comments= 179
+========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
+The bots in this army are called *'BOTterfly4, BOTterfly41, BOTterfly42, BOTterfly43, BOTterfly44'*
 
 ---
 
 ## Score Expectations
 I believe my score for this project should be 30/30. Here's why:
 * My `bot.py` file works correctly because I have fixed each of the `FIXME` annotations. This gives me 18 points.
-* This is my github repo, with all of the assignments. This gives me 2 points.
+* This is my github repo, with all of the requirements. This gives me 2 points.
 * My `bot_counter.py` file returned 1000 comments, which completes tasks 1,2 and 3. This gives me 6 points.
-* My bot replies to the most highly-upvoted comment in a new thread to accomplish task six. This can be found in line ___ of my `bot.py` file. This gives me 2 points.
-* I also created a `botarmy.py` file that creates five bots posting similar comments. 
-
+* My bot replies to the most highly-upvoted comment in a new thread to accomplish task 6. This can be found in line 187 of my `bot.py` file. This gives me 2 points.
+* I also created a `botarmy.py` file that creates five bots posting similar comments. This is for task 5. Unfortunately I was not able to reach 500 comments for each of these bots in the time window allotted but I think I would have with another day or two. I was not able to do this because I lost my original 1000 comments on my original bot when BotTown got banned and was not able to run my computer continuously as I was traveling home for the holiday. I belive I still deserve the 2 points, but understand if you disagree.
+* I did not complete task 4, 7 or the 5 point extra-credit task
