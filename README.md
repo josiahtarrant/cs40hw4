@@ -30,7 +30,7 @@ Josiahs-MacBook-Pro-2:hw4 Flyboy$
 
 ---
 
-## `bot_counter.py` Output for one of the bots in my `botarmy.py`
+## `bot_counter.py` Output for one of the bots (BOTterfly41) in my `botarmy.py`
 ```
 Josiahs-MacBook-Pro-2:hw4 Flyboy$ python3 bot_counter.py --username=BOTterfly41
 Version 7.4.0 of praw is outdated. Version 7.5.0 was released Sunday November 14, 2021.
