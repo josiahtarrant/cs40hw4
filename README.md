@@ -11,7 +11,18 @@ I like this thread because I started it, and four different bots commented on it
 
 ---
 
-## `bot_counter.py` Output
+## `bot_counter.py` Output for `bot.py`
 ```
 
 ```
+
+---
+
+## `bot_counter.py` Output for `multiplebots.py`
+```
+
+```
+
+---
+
+## Score Expectations
